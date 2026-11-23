@@ -14,8 +14,6 @@ console.log(typeof(0)); // Output: "number"\
 
 age >= 18 ? console.log("You are an adult.") : console.log("You are a minor.");
 
-
-
 let text = "We are the so-called \"Vikings\" from \v the north.\b";
 
 console.log(text); // Output: We are the so-called "Vikings" from the north.
@@ -51,7 +49,6 @@ let c = a + b;
 console.log(c); // Output: NaN5  
 
 console.log(parseInt(" 5 4")); // Output: 5
-
 
 let name = 'John';
 
